@@ -1,0 +1,11 @@
+no need to read,atcually
+
+#mkdir mission1
+
+#vim docker-compose.yml
+
+#docker pull jupyter/base-notebook
+
+#docker-compose up -d
+
+
